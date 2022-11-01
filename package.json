@@ -24,14 +24,14 @@
   },
   "homepage": "https://github.com/y-omasa-kbc/template-ts_web_min#readme",
   "devDependencies": {
-    "@types/jest": "^27.0.2",
-    "@types/node": "^16.11.7",
-    "jest": "^27.3.1",
+    "@types/jest": "^29.2.1",
+    "@types/node": "^18.11.8",
+    "jest": "^29.2.2",
     "npm-run-all": "^4.1.5",
     "rimraf": "^3.0.2",
-    "ts-jest": "^27.0.7",
-    "ts-node": "^10.4.0",
-    "ts-node-dev": "^1.1.8",
-    "typescript": "^4.4.3"
+    "ts-jest": "^29.0.3",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.8.4"
   }
 }
